@@ -2,15 +2,7 @@
 It is a real time Application which track the brand so that they they van analyse how their app is performing on social media
 based on google firebase.
 
-
-
-
-PRODUCT ENDORSEMENT VERIFIER
-
-Minor Project Report By-		
-Pritish Ranjan Verma      
-Vaibhav Kansal               
-Chirag                            
+                
 
 Under the supervision of Mr. Vivek Kumar Singh
 
